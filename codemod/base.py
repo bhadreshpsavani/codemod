@@ -83,7 +83,7 @@ def run_interactive(query, editor=None, just_count=False, default_no=False):
         terminal.terminal_clear()
         print(
             "You MUST indicate in your code review:"
-            " \"codemod with 'Yes to all'\"."
+            " \"codemod with 'Yes to all'\". "
             "Make sure you and other people review the changes.\n\n"
             "With great power, comes great responsibility."
         )
